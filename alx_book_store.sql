@@ -1,6 +1,6 @@
 -- ************************************************************
 -- Database: alx_book_store
--- Description: Online Bookstore Database Schema
+-- Description: Schema for Online Bookstore
 -- Author: Gabriel Nkrumah-Antiedu
 -- ************************************************************
 
